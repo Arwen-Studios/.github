@@ -1,20 +1,19 @@
 <p align="center">
-  <h1 align="center">Bem vindo ao GitHub oficial da Arwen Team!</h1>
+  <h1 align="center">Welcome to the official Arwen Team GitHub page!</h1>
 </p>
 
 ------------------------
-Uma equipe de jovens desenvolvedores com foco em arte, programação, musica e muito mais, atualmente com foco em modificações do jogo [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
-
-___Aqui postaremos os codigos fontes de nossos futuros projetos___
+a small team of developers, focused on producing art, programming, composing songs and much more, currently focusing on Modifications to the game [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
 
 ------------------------
-## Atualmente trabalhando com:
+## Currently working on...
 
 * Friday Night Fiufiu
 
 * Friday Night Funkin': VS Yung Lixo Deluxe
 
 * TopoConnection: PerfectUtopia
+  * [Legacy Version](https://github.com/Arwen-Team/TopoConnection-Legacy)
 
 ------------------------
-E muito mais projetos em breve!
+And many more in the near future!
