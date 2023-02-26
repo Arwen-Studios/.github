@@ -9,6 +9,7 @@ a small team of developers, focused on producing art, programming, composing son
 ## Currently working on...
 
 * Friday Night Fiufiu
+  * [Release v1.5](https://github.com/Arwen-Team/Friday-Night-Fiufiu-1.5)
 
 * Friday Night Funkin': VS Yung Lixo Deluxe
 
