@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Welcome to the official Arwen Team GitHub page!</h1>
+  <h1 align="center">Welcome to the official Arwen Studios GitHub page!</h1>
 </p>
 
 ------------------------
-a small team of developers, focused on producing art, programming, composing songs and much more, currently focusing on Modifications to the game [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
+A small game studio, focused on producing art, programming, composing songs and much more, currently focusing on modifications to the game [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
 
 ------------------------
 ## Currently working on...
