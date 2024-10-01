@@ -13,7 +13,7 @@ A small game studio, focused on producing art, programming, composing songs and 
 
 * Friday Night Funkin': VS Yung Lixo Deluxe
 
-* TopoConnection: PerfectUtopia
+* TopoConnection
   * [Legacy Version](https://github.com/Arwen-Team/TopoConnection-Legacy)
 
 ------------------------
